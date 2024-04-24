@@ -1,7 +1,3 @@
-Here's a README file for the 100 Pandas Puzzles:
-
----
-
 # 100 Pandas Puzzles
 
 Inspired by 100 Numpy exercises, here are 100 short puzzles for testing your knowledge of pandas' power.
@@ -61,5 +57,3 @@ labels = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
    ```
 
 ---
-
-There you go! You can add more exercises following a similar format. If you have any questions or need further assistance, feel free to ask!
